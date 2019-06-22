@@ -7,7 +7,7 @@
 # CO Founder : Mr.Tr3v!0n            #
 # CO Leader : Akin                   #
 # CO : Holilul Anwar                 #
-# Zumbailee,Febry, Bima, Accil, Alfa #
+# Zumbailee,Febry, Bima, Achil, Alfa #
 # Ardi Bordir  Raka, Wahyu Andika.   #
 # Mr.OO3T, Yulia Febriana, Sadboy,   #
 # Cyto Xploit, Sazxt, Minewizard,    #
